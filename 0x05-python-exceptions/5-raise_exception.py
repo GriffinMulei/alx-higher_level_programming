@@ -3,5 +3,5 @@
 
 
 def raise_exception():
-    """Raise a TypeError exception.""""
+    """Raise a TypeError exception."""
     raise TtpeError
